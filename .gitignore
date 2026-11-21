@@ -1,0 +1,6 @@
+ft_malcolm
+*.o
+*.a
+*.pdf
+.vscode/
+.DS_Store
